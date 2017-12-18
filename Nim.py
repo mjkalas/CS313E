@@ -1,19 +1,3 @@
-#  File: Nim.py
-
-#  Description:  This program calculates the optimum first move to win the game of nim.
-
-#  Student's Name: Minal Kalas
-
-#  Student's UT EID: mjk863
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 50945
-
-#  Date Created: 02/02/16
-
-#  Date Last Modified: 02/03/16
-
 #helper functions in order to get nim_sum
 def nim_sum(list_nums):
   exclusive_sum = 0
