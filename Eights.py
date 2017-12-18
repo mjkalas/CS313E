@@ -1,12 +1,3 @@
-#File: Eights.py
-#Description: This program simulates a blackjack game.
-#Student's Name: Minal Kalas
-#Student's UT EID: mjk863
-#Course Name: CS 313E 
-#Unique Number: 50945 
-#Date Created: 03/12/16
-#Date Last Modified: 03/14/16
-
 import random
 
 class Card (object):
