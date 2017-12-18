@@ -1,12 +1,3 @@
-#  File: Train.py
-#  Description: This program draws a train using Turtle Graphics
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50945
-#  Date Created: 02/22/16
-#  Date Last Modified: 02/29/16
-
 import turtle
 
 def drawSquare (ttl, x, y, side):
