@@ -1,12 +1,3 @@
-#  File: Mondrian.py
-#  Description: This program produces a Mondrian-like image.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 03/06/16
-#  Date Last Modified: 03/08/16
-
 import turtle
 import random
 
