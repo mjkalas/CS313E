@@ -1,12 +1,3 @@
-#  File: Triangle.py
-#  Description:  This program calculates the greatest path sum through various algorithms.
-#  Student's Name: Minal Kalas
-#  Student's UT EID: mjk863
-#  Course Name: CS 313E 
-#  Unique Number: 50945
-#  Date Created: 04/18/16
-#  Date Last Modified: 04/18/16
-
 # returns the greatest path sum using exhaustive search
 def exhaustive_search (triangle, index, i, b, c):
   if i == (len(triangle)):
