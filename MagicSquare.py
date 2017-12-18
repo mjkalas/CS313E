@@ -1,14 +1,3 @@
-'''
-File: MagicSquare.py
-Description: This program makes a magic square from a given odd number.
-Student's Name: Minal Kalas
-Student's UT EID: mjk863
-Course Name: CS 313E 
-Unique Number: 50945
-Date Created:02/04/16
-Date Last Modified: 02/06/16
-'''
-
 def incrementIndex (index, n):
   index = index+1
   if index > n-1:
