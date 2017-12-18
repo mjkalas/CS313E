@@ -1,12 +1,3 @@
-#  File: BST_Cipher.py
-#  Description: Creates a BST cipher
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863  
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 05/01/16
-#  Date Last Modified: 05/01/16
-
 class Node (object):
   def __init__ (self, data):
     self.data = data
