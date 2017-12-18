@@ -1,12 +1,3 @@
-#  File: Boxes.py
-#  Description: This program runs the nesting box sequence from class.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 03/02/16
-#  Date Last Modified: 03/02/16
-
 subsets = []
 
 def sub_sets (a, b, idx):
