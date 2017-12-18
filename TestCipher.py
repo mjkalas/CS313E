@@ -1,12 +1,3 @@
-#  File: TestCipher.py
-#  Description: This program creates a substitution cipher.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 03/30/16
-#  Date Last Modified: 03/31/16
-
 plain_text = [ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' ]
 cipher_text = [ 'q', 'a', 'z', 'w', 's', 'x', 'e', 'd', 'c', 'r', 'f', 'v', 't', 'g', 'b', 'y', 'h', 'n', 'u', 'j', 'm', 'i', 'k', 'o', 'l', 'p' ]
 
