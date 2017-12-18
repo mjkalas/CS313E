@@ -1,12 +1,3 @@
-#  File: Graph.py
-#  Description: This program creates a graph.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 05/01/16
-#  Date Last Modified: 05/01/16
-
 class Stack (object):
   def __init__ (self):
     self.stack = []
