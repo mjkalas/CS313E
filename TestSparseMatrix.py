@@ -1,14 +1,3 @@
-
-#  File: TestSparseMatrix.py
-#  Description: Sparse matrix representation has a single linked 
-#  list having the row, column, and non-zero data in each link
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number:  40965
-#  Date Created: 04/13/16
-#  Date Last Modified: 04/15/16
-
 class Link (object):
   def __init__ (self, col = 0, data = 0, next = None):
     self.col = col
