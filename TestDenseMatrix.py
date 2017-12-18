@@ -1,13 +1,3 @@
-
-# File: TestDenseMatrix.py
-# Description: Matrix is represented as 2-D list
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 
-#  Date Created:
-#  Date Last Modified:
-
 class Matrix (object):
   def __init__ (self, row = 0, col = 0):
     self.matrix = []
