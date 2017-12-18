@@ -1,12 +1,3 @@
-#  File: TestLinkedList.py
-#  Description:
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 04/04/16
-#  Date Last Modified: 04/04/16
-
 class Link (object):
   def __init__ (self, data, next = None):
     self.data = data
