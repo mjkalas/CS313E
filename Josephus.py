@@ -1,12 +1,3 @@
-#  File: Josephus.py
-#  Description:Uses a circular linked list to determine where Josephus would need to be to live.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 40965
-#  Date Created: 04/10/16
-#  Date Last Modified: 04/10/16
-
 class Link(object):
   def __init__ (self, data, next = None):
     self.data = data
