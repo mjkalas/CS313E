@@ -1,12 +1,3 @@
-#File: Blackjack.py
-#Description: This program simulates a blackjack game.
-#Student's Name: Minal Kalas
-#Student's UT EID: mjk863
-#Course Name: CS 313E 
-#Unique Number: 50945 
-#Date Created: 02/17/16
-#Date Last Modified: 02/17/16
-
 import random
 
 class Card (object):
