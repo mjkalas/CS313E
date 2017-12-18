@@ -1,12 +1,3 @@
-#  File: Poker.py
-#  Description: This program simulates a game of poker given a number of players.
-#  Student's Name: Minal Kalas
-#  Student's UT EID: mjk863
-#  Course Name: CS 313E 
-#  Unique Number: 50945
-#  Date Created: 02/08/16
-#  Date Last Modified: 02/15/16
-
 import random
 
 class Card (object):
