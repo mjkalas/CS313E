@@ -1,12 +1,3 @@
-#  File: ExpressionTree.py
-#  Description: This program creates a tree from inputted equations.
-#  Student's Name: Minal Kalas
-#  Student's UT EID: mjk863
-#  Course Name: CS 313E 
-#  Unique Number: 50965
-#  Date Created: 04/21/16
-#  Date Last Modified: 04/23/16
-
 class Stack (object):
   def __init__ (self):
     self.stack = []
