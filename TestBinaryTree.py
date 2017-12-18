@@ -1,12 +1,3 @@
-#  File: TestBinaryTree.py
-#  Description: Creates a BST
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 40965
-#  Date Created: 04/28/2016
-#  Date Last Modified: 4/29/2016
-
 import random
 
 def main():
