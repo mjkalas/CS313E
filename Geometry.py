@@ -1,12 +1,3 @@
-#  File: Geometry.py
-#  Description: This program takes in a file with coordinates and gives output of general location in 3D space.
-#  Student Name: Minal Kalas
-#  Student UT EID: mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50945
-#  Date Created: 02/19/16
-#  Date Last Modified: 02/21/16
-
 import math
 
 class Point (object):
