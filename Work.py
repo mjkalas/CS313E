@@ -1,12 +1,3 @@
-#  File: Work.py
-#  Description:  
-#  Student Name:  Minal Kalas
-#  Student UT EID:  mjk863
-#  Course Name: CS 313E
-#  Unique Number: 50965
-#  Date Created: 03/26/16
-#  Date Last Modified: 03/27/16
-
 def main():
   in_file = open('work.txt', 'r')
   test_cases = in_file.readline()
